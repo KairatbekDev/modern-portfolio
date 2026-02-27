@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './A1'; // Мы говорим: "Возьми дизайн из файла A1"
+import App from './A1';
 
 const rootElement = document.getElementById('root');
 if (rootElement) {
