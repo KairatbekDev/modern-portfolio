@@ -9,10 +9,9 @@ export default function MyPortfolio() {
   }, []);
 
   const contacts = [
-    { name: 'Telegram', link: 'https://t.me/nursnzz' },
-    { name: 'WhatsApp', link: 'https://wa.me/996706544376' }, // ЗАМЕНИ НА СВОЙ НОМЕР
-    { name: 'Instagram', link: 'https://instagram.com/nur1.aep' },
-    { name: 'GitHub', link: 'https://github.com/nursnzzx' }
+    { name: 'Telegram', link: 'https://t.me/KAIRATBEK06' },
+    { name: 'WhatsApp', link: 'https://wa.me/996706544376' }, 
+    { name: 'GitHub', link: 'https://github.com/KairatbekDev' }
   ];
 
   const myProjects = [
@@ -20,7 +19,7 @@ export default function MyPortfolio() {
       title: "Personal Portfolio v1",
       tech: "React, TS, Tailwind",
       desc: "Мой текущий сайт с адаптивным дизайном. Реализована система вкладок и анимации на Tailwind CSS.",
-      status: "Live",
+      status: "In Progress",
       github: "https://github.com/nursnzzx",
       demo: "#"
     },
